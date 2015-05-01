@@ -2,10 +2,10 @@ package main
 
 import (
 	"bytes"
+	"fmt"
 	"io/ioutil"
 	"net/http"
 	"os"
-	"fmt"
 )
 
 const (
